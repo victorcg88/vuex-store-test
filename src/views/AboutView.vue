@@ -1,8 +1,22 @@
 <template>
   <div class="about">
-    <button @click="setFilters">Filters</button>
-    <div v-for="key of Object.keys(extractedFilters)" :key="key">
-      {{ extractedFilters[key].label }}
+    <button @click="setFilters('a')">Filters A</button>
+    <button @click="setFilters('b')">Filters B</button>
+    <div class="panel">
+      <div class="container">
+        Module A: 
+        <br>
+        <div v-for="key of Object.keys(extractedFiltersA)" :key="key" class="item">
+          {{ extractedFiltersA[key].label }}
+        </div>
+      </div>
+      <div class="container">
+        Module B: 
+        <br>
+        <div v-for="key of Object.keys(extractedFiltersB)" :key="key" class="item">
+          {{ extractedFiltersB[key].label }}
+        </div>
+      </div>
     </div>
   </div>
 </template>
@@ -14,13 +28,15 @@ import facets from '../store/facets.json';
  
 const store = useStore();
 
-const extractedFilters = computed(() => store.state.filters);
+const extractedFiltersA = computed(() => store.state.a.filters);
+const extractedFiltersB = computed(() => store.state.b.filters);
 
-store.commit('setFacets', facets);
+store.commit('a/setFacets', facets);
+store.commit('b/setFacets', facets);
 
-function setFilters() {
-  const newFilters = store.state.facets.flatMap(facet => facet.filters);
-  store.commit('setFilters', newFilters);
+function setFilters(storeModule) {
+  const newFilters = store.state[storeModule].facets.flatMap(facet => facet.filters);
+  store.commit(`${storeModule}/setFilters`, newFilters);
 }
 </script>
 
@@ -31,5 +47,23 @@ function setFilters() {
     display: flex;
     align-items: center;
   }
+}
+
+.panel {
+  display: flex;
+}
+
+.container{
+  margin: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  flex: 1;
+}
+
+.item {
+  padding: 1rem;
+  background-color: #f3f3f3;
+  border-radius: 0.5rem;
 }
 </style>
