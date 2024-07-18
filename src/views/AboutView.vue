@@ -34,22 +34,22 @@ import facets from '../store/facets.json';
  
 const store = useStore();
 
-const extractedFiltersA = computed(() => store.state.a?.filters);
-const extractedFiltersB = computed(() => store.state.b?.filters);
+const extractedFiltersA = computed(() => store.state.x?.a?.filters);
+const extractedFiltersB = computed(() => store.state.x?.b?.filters);
 
 function setFilters(storeModule) {
-  const newFilters = store.state[storeModule].facets.flatMap(facet => facet.filters);
-  store.commit(`${storeModule}/setFilters`, newFilters);
+  const newFilters = store.state.x[storeModule]?.facets?.flatMap(facet => facet.filters);
+  store.commit(`x/${storeModule}/setFilters`, newFilters);
 }
 
 function registerModuleA() {
-  store.registerModule('a', moduleA);
-  store.commit('a/setFacets', facets);
+  store.registerModule(['x', 'a'], moduleA);
+  store.commit('x/a/setFacets', facets);
 }
 
 function registerModuleB() {
-  store.registerModule('b', moduleB);
-  store.commit('b/setFacets', facets);
+  store.registerModule(['x', 'b'], moduleB);
+  store.commit('x/b/setFacets', facets);
 }
 </script>
 

@@ -1,6 +1,10 @@
 import { createStore } from 'vuex'
-import { moduleA } from './module-a'
-import { moduleB } from './module-b'
 
 // Create a new store instance.
-export const store = createStore({})
+export const store = createStore({
+    modules: {
+        x: {
+            namespaced: true
+        },
+    }
+})
