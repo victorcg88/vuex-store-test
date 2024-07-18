@@ -1,0 +1,1825 @@
+[
+    {
+      "id": "categoryPaths",
+      "label": "categoryPaths",
+      "modelName": "HierarchicalFacet",
+      "filters": [
+        {
+          "facetId": "categoryPaths",
+          "label": "trousers",
+          "id": "categoryIds:1b5f82125",
+          "totalResults": 7212,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "dress",
+          "id": "categoryIds:5b612edb5",
+          "totalResults": 1329,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "flared",
+          "id": "categoryIds:21d242222",
+          "totalResults": 347,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "wide",
+          "id": "categoryIds:0abaa40b1",
+          "totalResults": 344,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "high-waisted",
+          "id": "categoryIds:174ffd389",
+          "totalResults": 331,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "tailored",
+          "id": "categoryIds:742729e75",
+          "totalResults": 288,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "high",
+          "id": "categoryIds:6ef7c9b15",
+          "totalResults": 262,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "slim-fit",
+          "id": "categoryIds:6c4585d98",
+          "totalResults": 253,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "floral",
+          "id": "categoryIds:12fad53d7",
+          "totalResults": 227,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "striped",
+          "id": "categoryIds:55f5841da",
+          "totalResults": 215,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "square",
+          "id": "categoryIds:4ba3e8e37",
+          "totalResults": 205,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "wide-leg",
+          "id": "categoryIds:d1c1483fa",
+          "totalResults": 202,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "slim",
+          "id": "categoryIds:ebe4136fc",
+          "totalResults": 200,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "print",
+          "id": "categoryIds:ce953a0eb",
+          "totalResults": 197,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "skinny",
+          "id": "categoryIds:2e7530f08",
+          "totalResults": 170,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "tapered",
+          "id": "categoryIds:1aa7dabd0",
+          "totalResults": 169,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "fit",
+          "id": "categoryIds:da4270e37",
+          "totalResults": 164,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "classic",
+          "id": "categoryIds:b002a6346",
+          "totalResults": 145,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "straight-leg",
+          "id": "categoryIds:02ece5fff",
+          "totalResults": 135,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "side",
+          "id": "categoryIds:ea7bf4bb7",
+          "totalResults": 125,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "drawstring",
+          "id": "categoryIds:fc4b33175",
+          "totalResults": 117,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "belt",
+          "id": "categoryIds:5f4f045d3",
+          "totalResults": 107,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "high-waist",
+          "id": "categoryIds:f4c8531da",
+          "totalResults": 107,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "pleated",
+          "id": "categoryIds:79d39fb87",
+          "totalResults": 100,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "elasticated",
+          "id": "categoryIds:fb26c13b8",
+          "totalResults": 83,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "high-rise",
+          "id": "categoryIds:4964a3c67",
+          "totalResults": 82,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "contrast",
+          "id": "categoryIds:3426125bf",
+          "totalResults": 74,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "sequin",
+          "id": "categoryIds:d75bdf681",
+          "totalResults": 51,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "1990's",
+          "id": "categoryIds:da05e8800",
+          "totalResults": 50,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "logo",
+          "id": "categoryIds:3598ce6f9",
+          "totalResults": 49,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "palazzo",
+          "id": "categoryIds:d2d90f938",
+          "totalResults": 47,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "bootcut",
+          "id": "categoryIds:418b7105e",
+          "totalResults": 43,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "stripe",
+          "id": "categoryIds:2bed2032e",
+          "totalResults": 43,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "track",
+          "id": "categoryIds:2bb8bf725",
+          "totalResults": 43,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "metallic",
+          "id": "categoryIds:a70a59b39",
+          "totalResults": 42,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "embroidered",
+          "id": "categoryIds:c759a25f7",
+          "totalResults": 41,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "geometric",
+          "id": "categoryIds:1850ed70c",
+          "totalResults": 41,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "plaid",
+          "id": "categoryIds:45cd2fb5a",
+          "totalResults": 39,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "panel",
+          "id": "categoryIds:320e00e73",
+          "totalResults": 37,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "creased",
+          "id": "categoryIds:c8f24dba3",
+          "totalResults": 36,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "open",
+          "id": "categoryIds:2348f9987",
+          "totalResults": 36,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "leopard",
+          "id": "categoryIds:359f7793c",
+          "totalResults": 35,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "knit",
+          "id": "categoryIds:1b56e72e9",
+          "totalResults": 34,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "leather",
+          "id": "categoryIds:5022472b2",
+          "totalResults": 34,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "mid-rise",
+          "id": "categoryIds:e89db8635",
+          "totalResults": 34,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "mid",
+          "id": "categoryIds:90ac16783",
+          "totalResults": 34,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "flare",
+          "id": "categoryIds:7797993a4",
+          "totalResults": 33,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "satin",
+          "id": "categoryIds:2709fb8fd",
+          "totalResults": 33,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "knitted",
+          "id": "categoryIds:71a6819dc",
+          "totalResults": 32,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "lace",
+          "id": "categoryIds:97eb1d612",
+          "totalResults": 31,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "pattern",
+          "id": "categoryIds:1fd38d5cb",
+          "totalResults": 31,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "front",
+          "id": "categoryIds:2d8d69317",
+          "totalResults": 30,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "button",
+          "id": "categoryIds:c3e2d78f3",
+          "totalResults": 28,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "ruffle",
+          "id": "categoryIds:e4830786d",
+          "totalResults": 28,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "white",
+          "id": "categoryIds:018fa96a4",
+          "totalResults": 28,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "2000's",
+          "id": "categoryIds:bec0bde80",
+          "totalResults": 26,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "ribbed",
+          "id": "categoryIds:fe9a1748b",
+          "totalResults": 26,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "pinstripe",
+          "id": "categoryIds:539d31c43",
+          "totalResults": 25,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "tie",
+          "id": "categoryIds:6f595eba3",
+          "totalResults": 25,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "black",
+          "id": "categoryIds:c006c7e3a",
+          "totalResults": 23,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "cigarette",
+          "id": "categoryIds:bdda87ebc",
+          "totalResults": 22,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "fitted",
+          "id": "categoryIds:c0164c09b",
+          "totalResults": 22,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "houndstooth",
+          "id": "categoryIds:2577ffdcf",
+          "totalResults": 21,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "1980's",
+          "id": "categoryIds:d7d29d663",
+          "totalResults": 20,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "embellished",
+          "id": "categoryIds:30b74c883",
+          "totalResults": 20,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "paisley",
+          "id": "categoryIds:b27ecc3e9",
+          "totalResults": 20,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "pearl",
+          "id": "categoryIds:26e3b2a5d",
+          "totalResults": 20,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "plain",
+          "id": "categoryIds:a116c9ed4",
+          "totalResults": 20,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "stretch",
+          "id": "categoryIds:1219929bd",
+          "totalResults": 20,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "velvet",
+          "id": "categoryIds:f4c44266a",
+          "totalResults": 20,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "zip",
+          "id": "categoryIds:4a70fe9aa",
+          "totalResults": 20,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "Trousers",
+          "id": "categoryIds:a1dd93fd5",
+          "totalResults": 19,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "cargo",
+          "id": "categoryIds:3322532d8",
+          "totalResults": 19,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "double",
+          "id": "categoryIds:2ce06a9e7",
+          "totalResults": 19,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "jacquard",
+          "id": "categoryIds:134060c9a",
+          "totalResults": 19,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "pant",
+          "id": "categoryIds:010c46db1",
+          "totalResults": 19,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "textured",
+          "id": "categoryIds:0edcf57f4",
+          "totalResults": 19,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "loose",
+          "id": "categoryIds:b5e0eee6e",
+          "totalResults": 18,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "sheer",
+          "id": "categoryIds:a505589b5",
+          "totalResults": 18,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "polka",
+          "id": "categoryIds:837f421cd",
+          "totalResults": 17,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "1970's",
+          "id": "categoryIds:bf56669df",
+          "totalResults": 16,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "casual",
+          "id": "categoryIds:c633eb52f",
+          "totalResults": 16,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "corduroy",
+          "id": "categoryIds:ede3ae7d2",
+          "totalResults": 16,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "denim",
+          "id": "categoryIds:99b94ab3f",
+          "totalResults": 16,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "pinstriped",
+          "id": "categoryIds:200f18fd4",
+          "totalResults": 16,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "super",
+          "id": "categoryIds:73d1b1b1b",
+          "totalResults": 16,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "sequinned",
+          "id": "categoryIds:3c8a580c6",
+          "totalResults": 15,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "waist",
+          "id": "categoryIds:6c2456b99",
+          "totalResults": 15,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "draped",
+          "id": "categoryIds:e6b4f8b3c",
+          "totalResults": 14,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "flower",
+          "id": "categoryIds:c06b0cfe0",
+          "totalResults": 14,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "twill",
+          "id": "categoryIds:7b6edbb7c",
+          "totalResults": 14,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "x",
+          "id": "categoryIds:2d711642b",
+          "totalResults": 14,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "cashmere",
+          "id": "categoryIds:b9ace04e1",
+          "totalResults": 13,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "crepe",
+          "id": "categoryIds:11490be05",
+          "totalResults": 13,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "small",
+          "id": "categoryIds:81db8ebbb",
+          "totalResults": 13,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "bag",
+          "id": "categoryIds:c018019b6",
+          "totalResults": 12,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "clip",
+          "id": "categoryIds:67905ad3c",
+          "totalResults": 12,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "regular",
+          "id": "categoryIds:667937c3e",
+          "totalResults": 12,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "snakeskin",
+          "id": "categoryIds:16c2c2bac",
+          "totalResults": 12,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        },
+        {
+          "facetId": "categoryPaths",
+          "label": "zebra",
+          "id": "categoryIds:676cb7501",
+          "totalResults": 12,
+          "parentId": null,
+          "selected": false,
+          "modelName": "HierarchicalFilter"
+        }
+      ]
+    },
+    {
+      "id": "price",
+      "label": "price",
+      "modelName": "NumberRangeFacet",
+      "filters": [
+        {
+          "id": "price:100.0-600.0",
+          "facetId": "price",
+          "label": "100.0-600.0",
+          "totalResults": 5228,
+          "selected": false,
+          "modelName": "NumberRangeFilter",
+          "range": {
+            "min": 100,
+            "max": 600
+          }
+        },
+        {
+          "id": "price:600.0-1100.0",
+          "facetId": "price",
+          "label": "600.0-1100.0",
+          "totalResults": 2398,
+          "selected": false,
+          "modelName": "NumberRangeFilter",
+          "range": {
+            "min": 600,
+            "max": 1100
+          }
+        },
+        {
+          "id": "price:1100.0-1600.0",
+          "facetId": "price",
+          "label": "1100.0-1600.0",
+          "totalResults": 911,
+          "selected": false,
+          "modelName": "NumberRangeFilter",
+          "range": {
+            "min": 1100,
+            "max": 1600
+          }
+        },
+        {
+          "id": "price:1600.0-2000.0",
+          "facetId": "price",
+          "label": "1600.0-2000.0",
+          "totalResults": 375,
+          "selected": false,
+          "modelName": "NumberRangeFilter",
+          "range": {
+            "min": 1600,
+            "max": 2000
+          }
+        }
+      ]
+    },
+    {
+      "id": "brand",
+      "label": "brand",
+      "modelName": "SimpleFacet",
+      "filters": [
+        {
+          "facetId": "brand",
+          "label": "p.a.r.o.s.h.",
+          "id": "brand:p.a.r.o.s.h.",
+          "totalResults": 218,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "brunello cucinelli",
+          "id": "brand:brunello cucinelli",
+          "totalResults": 175,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "etro",
+          "id": "brand:etro",
+          "totalResults": 150,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "joseph",
+          "id": "brand:joseph",
+          "totalResults": 139,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "prada",
+          "id": "brand:prada",
+          "totalResults": 114,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "stella mccartney",
+          "id": "brand:stella mccartney",
+          "totalResults": 113,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "forte forte",
+          "id": "brand:forte forte",
+          "totalResults": 105,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "dolce & gabbana",
+          "id": "brand:dolce & gabbana",
+          "totalResults": 101,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "marni",
+          "id": "brand:marni",
+          "totalResults": 99,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "theory",
+          "id": "brand:theory",
+          "totalResults": 99,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "fabiana filippi",
+          "id": "brand:fabiana filippi",
+          "totalResults": 94,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "msgm",
+          "id": "brand:msgm",
+          "totalResults": 93,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "styland",
+          "id": "brand:styland",
+          "totalResults": 83,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "dondup",
+          "id": "brand:dondup",
+          "totalResults": 80,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "pt01",
+          "id": "brand:pt01",
+          "totalResults": 79,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "dsquared2",
+          "id": "brand:dsquared2",
+          "totalResults": 78,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "nº21",
+          "id": "brand:nº21",
+          "totalResults": 78,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "piazza sempione",
+          "id": "brand:piazza sempione",
+          "totalResults": 78,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "pinko",
+          "id": "brand:pinko",
+          "totalResults": 76,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "chloé",
+          "id": "brand:chloé",
+          "totalResults": 74,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "mm6 maison margiela",
+          "id": "brand:mm6 maison margiela",
+          "totalResults": 73,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "rick owens",
+          "id": "brand:rick owens",
+          "totalResults": 73,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "gucci",
+          "id": "brand:gucci",
+          "totalResults": 72,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "alexander mcqueen",
+          "id": "brand:alexander mcqueen",
+          "totalResults": 70,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "jil sander",
+          "id": "brand:jil sander",
+          "totalResults": 67,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "ann demeulemeester",
+          "id": "brand:ann demeulemeester",
+          "totalResults": 64,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "missoni",
+          "id": "brand:missoni",
+          "totalResults": 61,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "aspesi",
+          "id": "brand:aspesi",
+          "totalResults": 60,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "alberta ferretti",
+          "id": "brand:alberta ferretti",
+          "totalResults": 57,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "liu jo",
+          "id": "brand:liu jo",
+          "totalResults": 57,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "nili lotan",
+          "id": "brand:nili lotan",
+          "totalResults": 56,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "maison margiela",
+          "id": "brand:maison margiela",
+          "totalResults": 55,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "romeo gigli pre-owned",
+          "id": "brand:romeo gigli pre-owned",
+          "totalResults": 55,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "alcaçuz",
+          "id": "brand:alcaçuz",
+          "totalResults": 54,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "ermanno scervino",
+          "id": "brand:ermanno scervino",
+          "totalResults": 51,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "sonia rykiel",
+          "id": "brand:sonia rykiel",
+          "totalResults": 50,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "alberto biani",
+          "id": "brand:alberto biani",
+          "totalResults": 48,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "emilio pucci",
+          "id": "brand:emilio pucci",
+          "totalResults": 47,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "fendi",
+          "id": "brand:fendi",
+          "totalResults": 47,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "peserico",
+          "id": "brand:peserico",
+          "totalResults": 47,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "twin-set",
+          "id": "brand:twin-set",
+          "totalResults": 46,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "incotex",
+          "id": "brand:incotex",
+          "totalResults": 45,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "cambio",
+          "id": "brand:cambio",
+          "totalResults": 43,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "semicouture",
+          "id": "brand:semicouture",
+          "totalResults": 42,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "givenchy",
+          "id": "brand:givenchy",
+          "totalResults": 41,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "adam lippes",
+          "id": "brand:adam lippes",
+          "totalResults": 40,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "gloria coelho",
+          "id": "brand:gloria coelho",
+          "totalResults": 40,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "haider ackermann",
+          "id": "brand:haider ackermann",
+          "totalResults": 40,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "isabel marant",
+          "id": "brand:isabel marant",
+          "totalResults": 40,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "max mara",
+          "id": "brand:max mara",
+          "totalResults": 40,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "valentino",
+          "id": "brand:valentino",
+          "totalResults": 40,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "emporio armani",
+          "id": "brand:emporio armani",
+          "totalResults": 39,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "la doublej",
+          "id": "brand:la doublej",
+          "totalResults": 39,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "see by chloé",
+          "id": "brand:see by chloé",
+          "totalResults": 39,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "victoria victoria beckham",
+          "id": "brand:victoria victoria beckham",
+          "totalResults": 39,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "red valentino",
+          "id": "brand:red valentino",
+          "totalResults": 38,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "m missoni",
+          "id": "brand:m missoni",
+          "totalResults": 36,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "miu miu",
+          "id": "brand:miu miu",
+          "totalResults": 36,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "oscar de la renta",
+          "id": "brand:oscar de la renta",
+          "totalResults": 36,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "saint laurent",
+          "id": "brand:saint laurent",
+          "totalResults": 36,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "balmain",
+          "id": "brand:balmain",
+          "totalResults": 35,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "moncler",
+          "id": "brand:moncler",
+          "totalResults": 35,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "golden goose",
+          "id": "brand:golden goose",
+          "totalResults": 34,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "michael michael kors",
+          "id": "brand:michael michael kors",
+          "totalResults": 34,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "moschino pre-owned",
+          "id": "brand:moschino pre-owned",
+          "totalResults": 34,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "tibi",
+          "id": "brand:tibi",
+          "totalResults": 34,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "pleats please by issey miyake",
+          "id": "brand:pleats please by issey miyake",
+          "totalResults": 33,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "3.1 phillip lim",
+          "id": "brand:3.1 phillip lim",
+          "totalResults": 32,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "chanel pre-owned",
+          "id": "brand:chanel pre-owned",
+          "totalResults": 32,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "l'autre chose",
+          "id": "brand:l'autre chose",
+          "totalResults": 32,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "moschino",
+          "id": "brand:moschino",
+          "totalResults": 32,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "nanushka",
+          "id": "brand:nanushka",
+          "totalResults": 32,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "vince",
+          "id": "brand:vince",
+          "totalResults": 32,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "erika cavallini ",
+          "id": "brand:erika cavallini ",
+          "totalResults": 31,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "monse",
+          "id": "brand:monse",
+          "totalResults": 31,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "tufi duek",
+          "id": "brand:tufi duek",
+          "totalResults": 31,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "blanca",
+          "id": "brand:blanca",
+          "totalResults": 30,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "jean paul gaultier pre-owned",
+          "id": "brand:jean paul gaultier pre-owned",
+          "totalResults": 30,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "philosophy di lorenzo serafini",
+          "id": "brand:philosophy di lorenzo serafini",
+          "totalResults": 30,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "sies marjan",
+          "id": "brand:sies marjan",
+          "totalResults": 30,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "versace",
+          "id": "brand:versace",
+          "totalResults": 30,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "isabel marant étoile",
+          "id": "brand:isabel marant étoile",
+          "totalResults": 29,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "layeur",
+          "id": "brand:layeur",
+          "totalResults": 29,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "blumarine",
+          "id": "brand:blumarine",
+          "totalResults": 28,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "closed",
+          "id": "brand:closed",
+          "totalResults": 28,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "f.r.s for restless sleepers",
+          "id": "brand:f.r.s for restless sleepers",
+          "totalResults": 28,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "off-white",
+          "id": "brand:off-white",
+          "totalResults": 28,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "société anonyme",
+          "id": "brand:société anonyme",
+          "totalResults": 28,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "versace pre-owned",
+          "id": "brand:versace pre-owned",
+          "totalResults": 28,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "alice olivia",
+          "id": "brand:alice+olivia",
+          "totalResults": 27,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "barrie",
+          "id": "brand:barrie",
+          "totalResults": 27,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "drome",
+          "id": "brand:drome",
+          "totalResults": 27,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "egrey",
+          "id": "brand:egrey",
+          "totalResults": 27,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "ganni",
+          "id": "brand:ganni",
+          "totalResults": 27,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "kiltie",
+          "id": "brand:kiltie",
+          "totalResults": 27,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "veronica beard",
+          "id": "brand:veronica beard",
+          "totalResults": 27,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "barena",
+          "id": "brand:barena",
+          "totalResults": 26,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "framed",
+          "id": "brand:framed",
+          "totalResults": 26,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "giambattista valli",
+          "id": "brand:giambattista valli",
+          "totalResults": 26,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "brand",
+          "label": "j brand",
+          "id": "brand:j brand",
+          "totalResults": 26,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        }
+      ]
+    },
+    {
+      "id": "gender",
+      "label": "gender",
+      "modelName": "SimpleFacet",
+      "filters": [
+        {
+          "facetId": "gender",
+          "label": "women",
+          "id": "gender:women",
+          "totalResults": 9214,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "gender",
+          "label": "unisex",
+          "id": "gender:unisex",
+          "totalResults": 73,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        }
+      ]
+    },
+    {
+      "id": "fit",
+      "label": "fit",
+      "modelName": "SimpleFacet",
+      "filters": [
+        {
+          "facetId": "fit",
+          "label": "regular",
+          "id": "fit:regular",
+          "totalResults": 6474,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "fit",
+          "label": "smaller",
+          "id": "fit:smaller",
+          "totalResults": 1418,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        },
+        {
+          "facetId": "fit",
+          "label": "bigger",
+          "id": "fit:bigger",
+          "totalResults": 1395,
+          "selected": false,
+          "modelName": "SimpleFilter"
+        }
+      ]
+    }
+  ]
