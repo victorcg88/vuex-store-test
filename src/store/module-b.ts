@@ -9,7 +9,7 @@ export const moduleB = {
     setFilters(state:any, filters: any) {
       const currentRun = `run-B-${run++}`;
       console.time(currentRun);
-      for(let i = 0; i < 2000; i++){
+      for(let i = 0; i < 5000; i++){
           state.filters[i] = 
           {
               "facetId": "categoryPaths",
